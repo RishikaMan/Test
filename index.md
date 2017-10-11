@@ -26,7 +26,7 @@
 <h3>Links and Images</h3>
 <p>First I'm going to link to <a href="http://www.bbc.co.uk/news">my website</a></p>
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Great_Britain_%28English_version%29.png" />
 
 
 
