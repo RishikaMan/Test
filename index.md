@@ -30,6 +30,27 @@
 
 
 
+
+<table>
+  <tr>
+    <th>English Words</th>
+    <th>French Words</th>
+    <th>German Wordsw</th>
+  </tr>
+  <tr>
+    <td>Table</td>
+    <td>La table</td>
+    <td>Der Tisch</td>
+  </tr>
+  
+
+</table>
+
+
+
+
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RishikaMan/Test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
