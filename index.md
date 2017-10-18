@@ -35,7 +35,7 @@
   <tr>
     <th>English Words</th>
     <th>French Words</th>
-    <th>German Wordsw</th>
+    <th>German Words</th>
   </tr>
   <tr>
     <td>Table</td>
