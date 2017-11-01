@@ -33,7 +33,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Great_Britain_%28English_version%29.png" />
 
-<img src="img/cat.jpeg"/>
+<img src="img/cat.jpeg"style="width:50%;"/>
 
 
 <table>
