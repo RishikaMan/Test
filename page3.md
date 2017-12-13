@@ -23,7 +23,7 @@
   <a style="float:right;" href="page4.html"> Continue to Vocabulary Exercise</a>
 </p>  
   
-<div style"clear:both;"></div>
+<div style="clear:both;"></div>
 
 
 
