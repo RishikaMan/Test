@@ -24,7 +24,7 @@
 <iframe src="https://archive.org/embed/LastWeekendSentence" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-<iframe width="480" height="270" src="https://www.powtoon.com/embed/g3kQu1La8Qb/" frameborder="0"></iframe>
+<iframe width="800" height="450" src="https://www.powtoon.com/embed/g3kQu1La8Qb/" frameborder="0"></iframe>
 
 
 
